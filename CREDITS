@@ -1,0 +1,10 @@
+Engineers responsible for this project were:
+
+* Paweł Szafrański
+Original creator of the SEAL project code embedded into the Linux kernel source tree.
+
+* Krystian Kieczka
+Re-designed and developed 2nd (current) version of SEAL built as a loadable kernel module. 
+
+* Bartosz Zator
+Technically and organizationally managed the project throughout its history.
